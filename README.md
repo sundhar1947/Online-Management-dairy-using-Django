@@ -25,5 +25,5 @@ It is designed to help users keep track of their daily tasks, past events, futur
 
 ---
 
-## 📂 Project Structure  
+ 
 
